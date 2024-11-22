@@ -1,0 +1,7 @@
+Roll Number: S12345
+Name: John Doe
+Hobbies: Reading, Traveling
+Favourite Subject: Mathematics
+Grades: A
+Future Goals: Software Engineer
+-------------------------------------------------
